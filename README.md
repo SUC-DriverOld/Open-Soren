@@ -6,6 +6,12 @@
 
 Code comes from [Rast Sound Soren](https://rastsound.com/downloads/soren/) v1.1.0
 
+Features:
+
+- Automatic audio master
+- Support custom mastering profiles
+- Smaller software size
+
 ## Usage
 
 Download the one-click starter from [releases](https://github.com/SUC-DriverOld/Open-Soren/releases), unzip and run `go-webui.bat`. Or following the steps below:
