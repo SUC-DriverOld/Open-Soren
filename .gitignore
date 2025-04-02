@@ -1,0 +1,10 @@
+workenv
+__pycache__
+test*.wav
+results
+TEMP
+cache
+go-webui.bat
+*.7z
+custom
+custom
